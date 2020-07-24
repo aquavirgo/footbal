@@ -1,4 +1,4 @@
-Package Test text
+//Package Test text
 package footbal
 
 import "fmt"
