@@ -1,7 +1,7 @@
 package footbal
 
 import "fmt"
-//VIF test 
+// PrintSportDiscipline print football
 func PrintSportDiscipline()  {
 	fmt.Printf("This is football !!!")
 }
